@@ -1,8 +1,17 @@
-.main {
-
+body {
+    background-image: url('../img/web-logo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
-.center-align{
+.title {
+    text-align:center;
+    font-family: 'Calligraffitti', cursive;
+    font-size:500%;
+}
+
+.subtitle {
     text-align: center;
 }
 
@@ -11,8 +20,20 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+.gallery {
+    display: table;
+    margin: 0 auto;
+}
+
+.horizontal-spacer{
+    height: 200px;
 }
 
 ul{
     list-style-type: none;
 }
+
+
