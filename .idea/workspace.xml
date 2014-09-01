@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.092150174" vertical-offset="388" max-vertical-offset="3740">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.107750475" vertical-offset="1745" max-vertical-offset="3740">
+              <caret line="106" column="38" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -67,8 +67,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/hover-accordion.js" />
         <option value="$PROJECT_DIR$/js/test.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -457,10 +457,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/starlogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.092150174" vertical-offset="388" max-vertical-offset="3740">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.107750475" vertical-offset="1745" max-vertical-offset="3740">
+          <caret line="106" column="38" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="38" />
           <folding />
         </state>
       </provider>
