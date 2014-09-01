@@ -7,8 +7,23 @@ body {
 
 .title {
     text-align:center;
-    font-family: 'Calligraffitti', cursive;
+
     font-size:500%;
+
+
+    font-family: 'Calligraffitti', cursive;
+
+    /*
+
+
+
+
+    font-family: 'Kranky', cursive;
+
+    font-family: 'Mountains of Christmas', cursive;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+        */
 }
 
 .subtitle {
@@ -26,6 +41,7 @@ body {
 .gallery {
     display: table;
     margin: 0 auto;
+    width: 690px;
 }
 
 .horizontal-spacer{
