@@ -1,3 +1,12 @@
+
+ul{
+    list-style-type: none;
+}
+
+html {
+    overflow-y: scroll;
+}
+
 body {
     background-image: url('../img/web-logo.png');
     background-repeat: no-repeat;
@@ -7,23 +16,8 @@ body {
 
 .title {
     text-align:center;
-
     font-size:500%;
-
-
     font-family: 'Calligraffitti', cursive;
-
-    /*
-
-
-
-
-    font-family: 'Kranky', cursive;
-
-    font-family: 'Mountains of Christmas', cursive;
-    font-family: 'Titillium Web', sans-serif;
-    font-family: 'Open Sans Condensed', sans-serif;
-        */
 }
 
 .subtitle {
@@ -48,8 +42,14 @@ body {
     height: 200px;
 }
 
-ul{
-    list-style-type: none;
+#title-image {
+    display:block;
+    margin:auto;
 }
 
-
+.accordion-content {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px solid #a1a1a1;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
