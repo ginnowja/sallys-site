@@ -25,6 +25,12 @@ html {
     font-family: 'Calligraffitti', cursive;
 }
 
+
+#title-image {
+    display:block;
+    margin:auto;
+}
+
 .subtitle {
     text-align: center;
 }
@@ -36,26 +42,31 @@ html {
     margin-right: auto;
 }
 
-
-.gallery {
-    display: table;
-    margin: 0 auto;
-    width: 690px;
-}
-
-.horizontal-spacer{
-    height: 200px;
-}
-
-#title-image {
-    display:block;
-    margin:auto;
-}
-
 .accordion-content {
     background-color: rgba(255, 255, 255, 0.5);
     border: 2px solid #a1a1a1;
     padding: 10px 10px;
     border-radius: 5px;
 }
+
+.gallery {
+    display: table;
+    margin: 0 auto;
+    width: 654px;
+}
+
+.gallery img{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+    margin-right: 3px;
+
+}
+
+.horizontal-spacer{
+    height: 200px;
+}
+
+
+
 
