@@ -33,7 +33,26 @@ html {
 
 .subtitle {
     text-align: center;
+    outline: none;
 }
+
+.subtitle hr{
+    height: 2px;
+    background-color: #e3e2e2;
+    width: 600px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subtitle:hover{
+    color: #d7ef35;
+}
+
+.subtitle:hover > hr{
+    background-color: #d7ef35;
+}
+
 
 .wrapper {
     width: 800px;
@@ -43,7 +62,7 @@ html {
 }
 
 .accordion-content {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(215, 239, 53, 0.2);
     border: 2px solid #a1a1a1;
     padding: 10px 10px;
     border-radius: 5px;
